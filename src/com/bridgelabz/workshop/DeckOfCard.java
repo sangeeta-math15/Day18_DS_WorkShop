@@ -18,6 +18,7 @@ public class DeckOfCard {
         play.printCards();
         play.addPlayer();
         play.distributeCards();
+        play.shuffleCards();
         play.printCardList();
 
     }
