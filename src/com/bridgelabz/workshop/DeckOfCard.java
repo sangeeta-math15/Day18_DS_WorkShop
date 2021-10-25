@@ -19,5 +19,6 @@ public class DeckOfCard {
         play.addPlayer();
         play.distributeCards();
         play.printCardList();
+
     }
 }

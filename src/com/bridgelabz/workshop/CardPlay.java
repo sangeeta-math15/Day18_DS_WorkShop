@@ -23,7 +23,6 @@ public class CardPlay {
             }
         }
     }
-
     public void printCards(){
 
         System.out.print("Cards : ");
